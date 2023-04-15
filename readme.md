@@ -9,13 +9,14 @@ Crafted in Python with love <3
 
 ## Installation
 
-Install requirements with pip3
+Install requirements with pip
+```bash
+  pip install requirements.txt
+```
 
+Install requirements with pip3
 ```bash
   pip3 install requirements.txt
-  or 
-  pip install requirements.txt
-
 ```
 
 Make a New Telegram Bot using @botfather and your'e ready to go :-)
