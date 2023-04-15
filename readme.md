@@ -19,4 +19,4 @@ Install requirements with pip3
 ```
 
 Make a New Telegram Bot using @botfather and your'e ready to go :-)
-    
+     
